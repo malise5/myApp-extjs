@@ -4,6 +4,7 @@ classic.json*
 modern.json*
 .sencha
 /ext
+sencha-error*
 
 
 /build
